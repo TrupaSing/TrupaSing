@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @TrupaSing
 - 👀 I’m interested in implementing crypto payment for our services
-- 🌱 I’m currently learning blockchain
 - 💞️ I'm looking for a wonderful blockchain experience
-- 📫 How to reach me https://trupasing.ro/crypto-sing
+- 📫 How to reach me https://trupasing.ro/crypto-sing 
+- Twitter https://twitter.com/TrupaSing
+- Crypto Sing : https://explorer.elrond.com/tokens/SING-35e8da
 
 <!---
 TrupaSing/TrupaSing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
